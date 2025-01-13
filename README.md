@@ -1,5 +1,5 @@
 # Why
-A truely random salt significantly enhances security, especially in contexts involving hashing and password storage, as it is resistant to Pre-Computed Attacks and Brute Force Attacks.
+A truely random salt significantly enhances security, especially in contexts involving hashing and password storage, as it is not deterministic and resistant to Pre-Computed Attacks as well as Brute Force Attacks.
 
 No warranty, but feel free to test it with a [Shannon Entropy Calculator](https://planetcalc.com/2476/).
 # How
